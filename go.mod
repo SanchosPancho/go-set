@@ -1,4 +1,4 @@
-module github.com/suzuki-shunsuke/go-set/v6
+module github.com/SanchosPancho/go-set
 
 go 1.13
 
